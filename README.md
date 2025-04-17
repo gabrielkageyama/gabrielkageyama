@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **finding my first job as developer**
 
-- 🌱 I’m currently learning **about AIs and LLMs**
+- 🌱 I’m currently learning **about AI and LLM**
 
 - 📫 If you need anything, just send me an email - **gabe.kage1@gmail.com**
 
