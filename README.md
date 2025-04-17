@@ -1,6 +1,7 @@
 <h1 align="center">Hey 👋, I'm Gabriel Guerra</h1>
 <h3 align="center">Fighting every day to become a better developer — some days I win. 😋</h3>
-
+<img align="right" alt="Coding" width="200" src="https://media.tenor.com/RvquWa8SmxcAAAAM/smile-cat.gif">
+<br>
 - 🔭 I’m currently working on **finding my first job as developer**
 
 - 🌱 I’m currently learning **about AI and LLM**
@@ -9,6 +10,7 @@
 
 - ⚡ Fun fact - **I love exercise, cook and learn about philosofy**
 
+<br><br>
 <h3 align="left">You can find me here:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriel-guerra-kageyama/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-guerra-kageyama/" height="30" width="40" /></a>
