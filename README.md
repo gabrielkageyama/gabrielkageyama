@@ -2,6 +2,7 @@
 <h3 align="center">Fighting every day to become a better developer — some days I win. 😋</h3>
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/RvquWa8SmxcAAAAM/smile-cat.gif">
 <br>
+
 - 🔭 I’m currently working on **finding my first job as developer**
 
 - 🌱 I’m currently learning **about AI and LLM**
