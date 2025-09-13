@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **finding my first job as developer**
 
-- 🌱 I’m currently learning **about AI and LLM**
+- 🌱 Challenging me every day to become a **better developer**
 
 - 📫 If you need anything, just send me an email - **gabe.kage1@gmail.com**
 
