@@ -9,7 +9,7 @@
 
 - 📫 If you need anything, just send me an email - **gabe.kage1@gmail.com**
 
-- ⚡ Fun fact - **I love exercise, cook and learn about philosofy**
+- ⚡ About me - **I love exercise, cook and learn about philosofy**
 
 <br><br>
 <h3 align="left">You can find me here:</h3>
